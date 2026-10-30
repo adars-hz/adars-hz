@@ -1,6 +1,6 @@
 ### Hi, I'm Adarsh
 
-Developer
+Just a Developer
 
 <br/>
 
